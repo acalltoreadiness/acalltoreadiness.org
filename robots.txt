@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://acalltoreadiness.org/sitemap.xml
